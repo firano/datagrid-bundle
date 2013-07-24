@@ -1,6 +1,6 @@
 {
-    "name":         "neutron/datagrid-bundle",
-    "description":  "This bundle provides easy creating of jqGrid datagrids",
+    "name":         "v-knyazev/datagrid-bundle",
+    "description":  "FORK! Fix for symfony 2.3. This bundle provides easy creating of jqGrid datagrids",
     "keywords":     ["datagrid", "jqGrid", "jQuery", "Symfony"],
     "type":         "symfony-bundle",
     "license":      "MIT",
